@@ -40,3 +40,15 @@ In `<BikeList />`, we need to render instances of `<BikeItem />` components:
 * By passing a single bike object to `<BikeItem />` as a prop.
 
 ![how we rendered BikeItem components](./README_images/03_rendered_BikeItem_within_BikeList.png)
+
+---
+
+## Diagram of `<App />`, `<BikeList />`, `<BikeItem />`:
+
+![diagram of the app/list/item pattern](./README_images/04_diagram.jpg)
+
+---
+
+## Imperative vs Declarative Summary:
+
+![whiteboard of imperative vs declarative](./README_images/05_imperative_vs_declarative.jpg)

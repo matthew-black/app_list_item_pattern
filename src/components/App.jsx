@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios'
+// Import the BikeList component:
+import BikeList from './BikeList.jsx'
 
 
 function App() {
@@ -47,8 +49,11 @@ function App() {
   return (
     <div>
       <h1>Bikes!</h1>
-      {/* Nifty hack to see what the value of a state variable is: */}
-      {JSON.stringify(bikes)}
+      {/*
+        Render an instance of a BikeList component, and
+        pass the bikes state as a prop: 
+      */}
+      <BikeList bikes={bikes} />
     </div>
   );
 }

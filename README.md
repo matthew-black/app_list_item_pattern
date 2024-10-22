@@ -59,4 +59,3 @@ In `<BikeList />`, we need to render instances of `<BikeItem />` components:
 
 * [Part 1](https://youtu.be/xxZ0CIYuEFY)
 * [Part 2](https://youtu.be/GhuJiwi6l4Q)
-* 

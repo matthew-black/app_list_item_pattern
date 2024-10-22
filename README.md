@@ -48,13 +48,15 @@ In `<BikeList />`, we need to render instances of `<BikeItem />` components:
 ![diagram of the app/list/item pattern](./README_images/04_diagram.jpg)
 
 ---
-
-Corresponding videos:
-
-* [Part 1](https://youtu.be/xxZ0CIYuEFY)
-* [Part 2](https://youtu.be/GhuJiwi6l4Q)
   
-
 ## Imperative vs Declarative Summary:
 
 ![whiteboard of imperative vs declarative](./README_images/05_imperative_vs_declarative.jpg)
+
+---
+
+## Video Links:
+
+* [Part 1](https://youtu.be/xxZ0CIYuEFY)
+* [Part 2](https://youtu.be/GhuJiwi6l4Q)
+* 

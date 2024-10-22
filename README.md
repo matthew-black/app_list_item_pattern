@@ -1,10 +1,5 @@
 # React
 
-Corresponding videos:
-
-* https://vimeo.com/video/1022187674
-* https://vimeo.com/video/1022187578
-
 ## Goal:
 
 * Fetch the data in `<App />`.
@@ -53,6 +48,12 @@ In `<BikeList />`, we need to render instances of `<BikeItem />` components:
 ![diagram of the app/list/item pattern](./README_images/04_diagram.jpg)
 
 ---
+
+Corresponding videos:
+
+* [Part 1](https://youtu.be/xxZ0CIYuEFY)
+* [Part 2](https://youtu.be/GhuJiwi6l4Q)
+  
 
 ## Imperative vs Declarative Summary:
 

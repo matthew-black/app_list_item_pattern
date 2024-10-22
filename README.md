@@ -1,5 +1,10 @@
 # React
 
+Corresponding videos:
+
+* https://vimeo.com/video/1022187674
+* https://vimeo.com/video/1022187578
+
 ## Goal:
 
 * Fetch the data in `<App />`.
